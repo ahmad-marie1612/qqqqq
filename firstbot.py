@@ -1,6 +1,6 @@
+import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 import telegram
-import telebot
 from telebot import types
 token="7644799463:AAFqhfTFKPdRhlBVunM9BqKIqvilHAZB8ZU"
 bot= telebot.TeleBot(token)
